@@ -13,7 +13,7 @@ I'm passionate about building web applications.
 
 Here are some of the technologies and tools I've been using:
 
-**Languages:** Python, Java, C, JavaScript, HTML, CSS
+**Languages:** ![My Skills](https://skillicons.dev/icons?i=python,java,c,js,css,html)
 
 **Databases:** MySQL
 
@@ -28,6 +28,7 @@ Here are some of the technologies and tools I've been using:
 ### My GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sunayana-005&show_icons=true&theme=default)
+
 
 
 
