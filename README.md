@@ -15,9 +15,9 @@ Here are some of the technologies and tools I've been using:
 
 **Languages:** ![My Skills](https://skillicons.dev/icons?i=python,java,c,js,css,html)
 
-**Databases:** MySQL
+**Databases:** ![My Skills](https://skillicons.dev/icons?i=mysql)
 
-**Tools:** Git, Figma, VS Code
+**Tools:** ![My Skills](https://skillicons.dev/icons?i=git,figma)
 
 ---
 
@@ -28,6 +28,7 @@ Here are some of the technologies and tools I've been using:
 ### My GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sunayana-005&show_icons=true&theme=default)
+
 
 
 
