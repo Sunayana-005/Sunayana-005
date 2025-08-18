@@ -20,14 +20,10 @@ Here are some of the technologies and tools I've been using:
 **Tools:** ![My Skills](https://skillicons.dev/icons?i=git,figma)
 
 ---
-
-### 📫 Let's connect!
-* **LinkedIn:** https://www.linkedin.com/in/sunayana-goswami-8a17aa330/
-
----
 ### My GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sunayana-005&show_icons=true&theme=default)
+
 
 
 
